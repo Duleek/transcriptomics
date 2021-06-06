@@ -1,0 +1,14 @@
+sudo python3.7 -m pip install --upgrade cython    
+sudo python3.7 -m pip install --upgrade setuptools  
+sudo python3.7 -m pip install pyranges 
+sudo python3.7 -m pip install requests 
+python3.7 -m pip install pyranges
+python3.7 -m pip install pandas 
+sudo python3.7 -m pip install scipy 
+sudo python3.7 -m pip install statsmodels
+
+#optional
+#python3.7 -m pip install -U ray
+#python3.7 -m pip install pybigwig
+#python3.7 -m pip install bamread
+#python3.7 -m pip install fisher
